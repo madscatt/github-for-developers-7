@@ -3,3 +3,4 @@
  - [ ] pizza
  - [ ] computer stuff
 - [] favorite color: mauve
+-[] barf new stuff to think about
