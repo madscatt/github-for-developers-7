@@ -2,3 +2,4 @@
  - [ ] Here and there
  - [ ] pizza
  - [ ] computer stuff
+- [] favorite color: mauve
